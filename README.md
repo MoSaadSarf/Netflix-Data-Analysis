@@ -1,8 +1,6 @@
 # Netflix_Data_Visualization_Analysis_Pre_and_Post-Covid19
 Analysis-Visualization-of-Netflix-Content
-The dataset contains long list of details of a movie such as director, country, year, duration, categories, and description.
-
-The main aim of this file is to achieve some great visualizations which can be intriguing for the audience. Images for few of the plots will be listed below:
+My work showcases an extensive collection of data gathered from and about Netflix. The data includes a vast array of topics such as Information about movies, encompassing details like the director's name, country of origin, release year, duration, categories or genres, and a description of the movie's plot or storyline, the age of the consumers, etc. This project emphasizes implying my skills and knowledge to real-world scenarios all the while creating visually appealing and engaging plots that will captivate the audience.
 
 ![image](https://github.com/MoSaadSarf/Netflix_Data_Visualization_Analysis_Pre_and_Post-Covid19/assets/133058147/2b872a0e-e1a4-448b-a2c2-ae3ca5056df2)
 ![image](https://github.com/MoSaadSarf/Netflix_Data_Visualization_Analysis_Pre_and_Post-Covid19/assets/133058147/75e7367b-7a2c-4253-b53d-bc10619570ab)
@@ -12,4 +10,4 @@ The main aim of this file is to achieve some great visualizations which can be i
 
 
 
-Plots helps in expressing our views better and making the people understand things nicely and very easily.
+A simple chat can commuicate enough knowledge in a glace which may be a little harder to achieve otherwise.
