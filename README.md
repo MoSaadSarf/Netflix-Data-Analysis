@@ -1,4 +1,4 @@
-# Netflix_Data_Visualization_Analysis_Pre_and_Post-Covid19
+# Netflix_Data_Visualization_Analysis
 Analysis-Visualization-of-Netflix-Content
 My work showcases an extensive collection of data gathered from and about Netflix. The data includes a vast array of topics such as Information about movies, encompassing details like the director's name, country of origin, release year, duration, categories or genres, and a description of the movie's plot or storyline, the age of the consumers, etc. This project emphasizes implying my skills and knowledge to real-world scenarios all the while creating visually appealing and engaging plots that will captivate the audience.
 
